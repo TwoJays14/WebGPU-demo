@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@webgpu/types": "^0.1.44",
     "webgpu": "^0.1.16"
   }
 }
